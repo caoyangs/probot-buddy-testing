@@ -1,6 +1,6 @@
 # probot-buddy-testing
 
-test
+test2
 
 12345
 6
